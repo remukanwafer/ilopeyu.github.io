@@ -92,9 +92,9 @@ body
 .countdown div#second:before
 {
 	content: 'Seconds';
-	background-color: lightblue;
 }
 .musik1
 {
 	position: relative;
-	margin: 450px 355px;
+	margin: 1000px 340px;
+}
